@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("SpotifyUpgradeFinder")]
-[assembly: AssemblyCopyright("Copyright © Nick Botticelli 2020")]
+[assembly: AssemblyCopyright("Copyright © Nicholas Botticelli 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
