@@ -4,9 +4,6 @@ Find download links for specific versions of Spotify (Windows). Use at your own 
 # Using
 SpotifyUpgradeFinder is a C# 4.5 Windows Console executable. It should be able to run by default on Windows 8 installations and above.
 
-# Dependencies
-* None yet
-
 # Notes
 * Newest online installer: https://download.scdn.co/SpotifySetup.exe
 * Newest full installer: https://download.spotify.com/SpotifyFullSetup.exe
